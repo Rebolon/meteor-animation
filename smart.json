@@ -1,0 +1,9 @@
+{
+  name: "animation",
+  description: "an animation pattern that allow to animate your template when object from database are inserted / updated / removed",
+  homepage: "https://github.com/Rebolon/meteor-animation",
+  author: "Benjamin RICHARD (https://twitter.com/rebolon),
+  version: "0.1",
+  git: "https://github.com/Rebolon/meteor-animation.git",
+  packages: {}
+}
