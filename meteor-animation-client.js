@@ -1,6 +1,10 @@
 /**
  * 
  * mandatory: div to animate must have id like #{{_id}} to enable the animatorAutomation to retreive them
+ *
+ * @TODO find a way to store the property _ ouside the document property
+ * @TODO remove animation should also change that property and then recall the remove function
+ *
  */
 animatorAutomation = {
   collectionState: {},
