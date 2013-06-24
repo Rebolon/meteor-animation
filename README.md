@@ -14,6 +14,6 @@ The block that will be animated must be idenfied by the following attribute id: 
 Actually if you have your own collection.allow system, be aware that the remove property will be overloaded. This is a part that might be modified in future.
 
 A sample is available on https://github.com/Rebolon/meteorAnimationWithMagicCss
-That's quite simple be it show quite well how to use it.
+That's quite simple but it shows quite well how to use it.
 
 Have fun and please gieve me feedback and do PullRequest !
