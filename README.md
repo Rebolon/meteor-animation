@@ -2,7 +2,7 @@ Meteor Animation
 
 A pattern to animate your template based on database events (insert / update / remove)
 
-Can be used with MagicCss from http://minimac.github.io/magic/
+Can be used with MagicCss from https://github.com/miniMAC/magic
 Just include the css required
 
 If you want to manage your own animation, just overload the following 3 methods:
