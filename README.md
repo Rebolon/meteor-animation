@@ -1,4 +1,7 @@
-Meteor Animation
+[DEPRECATED] Meteor Animation
+
+Deprecated since MeteorJS has added _uihooks api. Since then, inside a template we have acces to method insertElement, moveElement, removeElement.
+
 
 A pattern to animate your template based on database events (insert / update / remove)
 
